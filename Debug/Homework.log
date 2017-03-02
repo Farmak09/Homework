@@ -1,0 +1,4 @@
+﻿  Implementations.cpp
+c:\users\jaume\documents\visual studio 2013\projects\homework\homework\implementations.cpp(13): warning C4172: returning address of local variable or temporary
+c:\users\jaume\documents\visual studio 2013\projects\homework\homework\implementations.cpp(64): warning C4172: returning address of local variable or temporary
+c:\users\jaume\documents\visual studio 2013\projects\homework\homework\implementations.cpp(12): error C4700: uninitialized local variable 'player' used
